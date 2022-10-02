@@ -10,7 +10,6 @@ DROP TABLE salaries;
 CREATE TABLE departments(
 dept_no VARCHAR (10) PRIMARY KEY,
 dept_name VARCHAR(30));
---copy departments FROM 'C:\Users\ashle\OneDrive\homework9\departments.csv'  delimiter ','  csv header ;
 SELECT * FROM departments;
 
 CREATE TABLE titles(
@@ -34,7 +33,7 @@ FROM employee;
 SELECT to_date(hire_date, 'MM/DD/YYYY') as hire_date
 FROM employee;
 SELECT * FROM employee;
-Update 
+ 
 
 CREATE TABLE dept_emp(
 emp_no INT,
