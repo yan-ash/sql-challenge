@@ -1,12 +1,16 @@
 # sql-challenge
-This challenge consists of three parts.
-Part 1: Data Modelling
-Please see the output folder for the data moduling. 
-Part 2: Data Engineering 
-Please refer to employee_schema.sql file
-Part 3: Data Analysis
-Please see the dataANALYSIS.sql file.
-Bonus Part:
+##This challenge consists of three parts.
+
+#Part 1: Data Modelling
+##Please see the output folder for the data moduling. 
+
+#Part 2: Data Engineering 
+##Please refer to employee_schema.sql file
+
+#Part 3: Data Analysis
+##Please see the dataANALYSIS.sql file.
+
+#Bonus Part:
 Please see bonus.ipynb file.
 1. Query the tables from the postgres database into dataframes
 2. combine employee and salary dataframe
